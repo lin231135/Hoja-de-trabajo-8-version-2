@@ -1,6 +1,6 @@
 Javier Alexander Linares Chang - 231135
 
-Version 2 (Usando PriorityQueue del Java Collection Framework)
+Segunda Version (Usando PriorityQueue del Java Collection Framework)
 En la nueva versión del programa:
 
 - Se utiliza PriorityQueue del Java Collection Framework para manejar la cola de prioridad.
